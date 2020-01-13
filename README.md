@@ -1,15 +1,19 @@
 ## Approach
 A practical, top-down approach, starting with high-level frameworks with a focus on Deep Learning.
 
+---
+
+Language versions: [Korean](https://github.com/emilwallner/How-to-learn-Deep-Learning/blob/master/README_kr.md) | [English](https://github.com/emilwallner/How-to-learn-Deep-Learning/blob/master/README.md)
+
 ## Getting started [2 months]
 
 There are three main goals to get up to speed with deep learning: 
 1) Get familiar to the tools you will be working with, e.g. Python, the command line and Jupyter notebooks
-2) Get used to the workflow, everything from finding the data to deploying a trained model
+2) Get used to the workflow, everything from [finding the data to deploying a trained model](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)
 3) Building a deep learning mindset, an intuition for how deep learning models behave and how to improve them
 
 - Spend a week on codecademy.com and learn the python syntax, command line and git. If you don't have any previous programming experience, it's good to spend a few months learning how to program. Otherwise, it's easy to become overwhelmed. 
-- Spend one to two weeks using [Pandas](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y) and [Scikit-learn](http://scikit-learn.org/stable/) on [Kaggle problems](https://www.kaggle.com/competitions?sortBy=grouped&group=general&page=1&pageSize=20&category=gettingStarted) using [Jupyter Notebook](https://www.youtube.com/watch?v=HW29067qVWk&t=375s), e.g. [Titanic](https://www.kaggle.com/c/titanic), [House prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), and [Iris](https://www.kaggle.com/uciml/iris). This gives you an overview of the machine learning mindset and workflow. 
+- Spend one to two weeks using [Pandas](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y) and [Scikit-learn](http://scikit-learn.org/stable/) on [Kaggle problems](https://www.kaggle.com/competitions?sortBy=grouped&group=general&page=1&pageSize=20&category=gettingStarted) using [Jupyter Notebook on Colab](https://colab.research.google.com/notebooks/welcome.ipynb), e.g. [Titanic](https://www.kaggle.com/c/titanic), [House prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), and [Iris](https://www.kaggle.com/uciml/iris). This gives you an overview of the machine learning mindset and workflow. 
 - Spend one month implementing models on cloud GPUs. Start with [FastAI and PyTorch](http://course.fast.ai/). The FastAI community is the go-to place for people wanting to apply deep learning and share the state of the art techniques.
 
 Once you have done this, you will know how to add value with ML. 
